@@ -1,4 +1,4 @@
-# messenger_app
+# messenger_ui
 
 A new Flutter project.
 
